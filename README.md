@@ -7,198 +7,116 @@ The text file is a complete listing of all URLs or links to the Christmas Catalo
 
 WishbookWeb.com zip files of each catalog (57 total) are in the links below.  The files were obtained by using the code from Program.cs in this GitHub repository.
 
-https://drive.google.com/file/d/1eKZ60vigbNLHnxXAT6ar8f8evF5NPQyT
+https://drive.google.com/file/d/1Adx_YTbDxF_J2P9Pmff9ODIYEuEpcNJ6
 
-https://drive.google.com/file/d/112ByafU046jbAjg8fjkY1_KudsA2khDV
+https://drive.google.com/file/d/1QTzlNrGqo-blPB5MyhAKP3lU7h9ZQ2ha
 
-https://drive.google.com/file/d/1mKLuK_rTiek-_NzatiAyKoPk-IxtFaC5
+https://drive.google.com/file/d/1oLk7-ZQ351UzZB3bcP1QDCh8xqQ4Ow2K
 
-https://drive.google.com/file/d/1-yT1Tu1e-VqXQFIvW3qfOfOPdILv6IOI
+https://drive.google.com/file/d/12iquiMual8FZn3F5a4OxcNwwxHVp18pv
 
-https://drive.google.com/file/d/1x0KHMU27oTsjqe3vrPAwHhH6o4GvB5RY
+https://drive.google.com/file/d/1KzjXy2KBvRQYrhAa_rG8n49Czlr6Iov8
 
-https://drive.google.com/file/d/1KpnbIWIB729vxII7GHNhZsUMEBf-aA0m
+https://drive.google.com/file/d/1-l4EoOVFB1Tms9SJocEO02h36O9HtJXL
 
-https://drive.google.com/file/d/17DoGclYk2uYNZSa1-BS24s3X-AotaXqd
+https://drive.google.com/file/d/11zELmXLY3GRGO96JDX5GWgEgSbavVuFe
 
-https://drive.google.com/file/d/1k6sv9SJKAd65pfwyxYcCR_45FLkQOCkt
+https://drive.google.com/file/d/1M7mcShI5NvA0jAeLLf04e1K_2gmJHFjE
 
-https://drive.google.com/file/d/1lyuhs-lCWvrEsUdFVzWF2Ue5CbZmrC0h
+https://drive.google.com/file/d/1XdBA6Vx1NqYC8mvOiw-nbchFVbFAqPJ7
 
-https://drive.google.com/file/d/1aAmRO7ytTepXgongnVovaJ1oj3Nveyok
+https://drive.google.com/file/d/1Wiix10hH6dot1FCCs59kWYqAGCL6TbMy
 
-https://drive.google.com/file/d/1vNej5Tx_kpSs3rxpJBP0lE6x1hqqUogF
+https://drive.google.com/file/d/1pu6FwIuQVBYrCvDidqZr_rGadX6UBVbE
 
-https://drive.google.com/file/d/16w2V9zqgMsBotBWtbDba272GzrmcfBEh
+https://drive.google.com/file/d/1QJ3mZVN5UAR_9lQqvb7B_FPJSzmijvN2
 
-https://drive.google.com/file/d/1xHfl3lOG6s_04Q_PCvTqm1JDQtObdDqE
+https://drive.google.com/file/d/1_IxUG6kp5TpAHwDUdsnvGeBGB1H0FZZe
 
-https://drive.google.com/file/d/1P1TLKgSfn8jxKpIN1q1et_hidKpgA6Cz
+https://drive.google.com/file/d/1kVgOAmPzVblFsf0M19_k1WMfEYnjc1og
 
-https://drive.google.com/file/d/1IijtnDRgcNAV7jV5UNlu9I56JJxseQQx
+https://drive.google.com/file/d/1T4YnSj-QrM2m6-du7XyE8wiz9rm_7CNN
 
-https://drive.google.com/file/d/1iqvvMC4jJ0NTKIMTC7ZeXCqaDgqSPj7K
+https://drive.google.com/file/d/1zhN11loJ3CFjf7SmRqIaqkraRszlvZjE
 
-https://drive.google.com/file/d/1z5UVXe4Ej0TWvLq2yfwMQbxlujzf81OQ
+https://drive.google.com/file/d/1fI63vY9Zw8-ln3QWtEZRpC2p_YbS3dB-
 
-https://drive.google.com/file/d/1Uk9N8Orw3E4YRT_VnLSeCDcvStETpMT6
+https://drive.google.com/file/d/1O5yWrcfuS1wZjNStDo_IQ97rbWPiYu52
 
-https://drive.google.com/file/d/119jKJXeSESEqSVl4Td7DbTN8_tERCVZ6
+https://drive.google.com/file/d/1HbhBqYGgN12QUA6c3G52rg6YytAe6MIs
 
-https://drive.google.com/file/d/1XPHyVMbZRruLknV09X9SkJFr6UtwVxHh
+https://drive.google.com/file/d/1wxZNqQm4ZX_nggQqUtKe0MIHqyDHgPgO
 
-https://drive.google.com/file/d/1049to1vshefURmSX-cCvswuokhmX-24-
+https://drive.google.com/file/d/1K3IMCCMej8GKDVuTsplvJ6Z0gYjYVokE
 
-https://drive.google.com/file/d/1RrRRKCsJQR25Yeu7Yoz16dP24gKe_ury
+https://drive.google.com/file/d/1sTRJ1gvhbjPLpSjEIHtjpWXqWavVrD36
 
-https://drive.google.com/file/d/1bhtA0np_ZZ7d0_i8LRwwd5fkskmmNde8
+https://drive.google.com/file/d/1BFbLPo051NW_tPW8m4_tC3WfHtnld1H3
 
-https://drive.google.com/file/d/1jJdbyciIjtSvG5LObSgE-Ohadv5yR__d
+https://drive.google.com/file/d/19wo7qVZa5i4Ef8dVGM9CjC2PDrYk84ad
 
-https://drive.google.com/file/d/1PANlrC8Uwi9pMGfqh8zkbkKGzIdYOLjx
+https://drive.google.com/file/d/1KcpiIx8aJUZii0l2vjz3FcRyn9KtDrvj
 
-https://drive.google.com/file/d/15qopM0bCPlnFMGn2uDCxtfl9ReUy4Vgl
+https://drive.google.com/file/d/1OnSkUuVkPPxHp8ZURlTerG6-2JUVoty2
 
-https://drive.google.com/file/d/14qJl3TVKVv9DYyDvdk1i2nxr3iR3soKx
+https://drive.google.com/file/d/1A5zE6OiG86H6B694o93nldJt5Of40ou6
 
-https://drive.google.com/file/d/1fa8mSTZUlMwLWU4xew_nZqvmdZI62NME
+https://drive.google.com/file/d/1L0q7QCe0BN4dUkTZ5Wj-_ZDXP4UKxRA0
 
-https://drive.google.com/file/d/1TJ1TZ3vFCdXvbnSdK3ZvcKLEuVHA-HWx
+https://drive.google.com/file/d/1x2hLU1Fb1YyQx4wduI5zYlVSuc-bn88v
 
-https://drive.google.com/file/d/1Vj-0D-417ezQWQkBdMA7k2LFW0zbJ8IQ
+https://drive.google.com/file/d/1H4AQ8x07eYF3zUYpmKLHJelNJ5ZQUCm7
 
-https://drive.google.com/file/d/1_Pw3j5XhjcCJbYDh2dvXCe49vtLcEJB3
+https://drive.google.com/file/d/19MtnTK_Bm6FiXWl47XoSua5Ls83nelZg
 
-https://drive.google.com/file/d/1hntNHgA6wAqMxB989MKm2d-dc8Nmnxvw
+https://drive.google.com/file/d/1hTaGmiIyFjlOHsa74l_kpfAal0Wtw1eN
 
-https://drive.google.com/file/d/1Y2S_VHyvl-GMIxO1bNtFmi4qAtVoG-af
+https://drive.google.com/file/d/1lVlPp8SnK9NevWXj-cCObdSbV5ZcfYFF
 
-https://drive.google.com/file/d/14zg_LaqmO0u2q3bj4Hb0vEsVn0swnmlA
+https://drive.google.com/file/d/165ZHwEY_FozFrexz037xkGfWPDP0Dws_
 
-https://drive.google.com/file/d/1xqcYNOrLe9B_rz_Cr3OvXP67-ijQeH_B
+https://drive.google.com/file/d/1U3beNv7TJjBq97n1lxkxA2yA5DorrnI6
 
-https://drive.google.com/file/d/1ly-g2n1EdAAWJA1RiK6Q4jxQ7_UP9TFG
+https://drive.google.com/file/d/1YjvEK-4yija5vV4f7v6T_TNKJZBkCwrL
 
-https://drive.google.com/file/d/1LAgs9Ui5WVtjP0budzhqm2_Gmre-vAap
+https://drive.google.com/file/d/1CCMQQMkjUT0Jo6jnXV5h3lw1ZuA3RXmH
 
-https://drive.google.com/file/d/15Sap9k5ddgyVcyMrIequ9PGKh-BpGB3q
+https://drive.google.com/file/d/1UtckJIKCzhFqMFgHc0_8tkkKl3aozopU
 
-https://drive.google.com/file/d/1hFQ85_7tSwJavmGT86pWGgKF3HNvxbhv
+https://drive.google.com/file/d/11knHcs8uTQIDeAEg_oOKpwMmTcmdl4gl
 
-https://drive.google.com/file/d/182LBffjbOSuKKg_3qpaZVnjk7Suc5e3y
+https://drive.google.com/file/d/1Lse4TogwHfkty4i2xFgVHVk7TGT7GWrZ
 
-https://drive.google.com/file/d/1Hs8YvGpe-p1U2h40_5fdhip3f4ZDKgz8
+https://drive.google.com/file/d/19kl4owq4cInbuwkB2L9OQ_3wwBKh_Zf0
 
-https://drive.google.com/file/d/1Y4YZ7ASlDnR2RPDh3Tz-zoidD2EnRucp
+https://drive.google.com/file/d/1plbPXAyyEbzUDDOltaaoz5zVBlGL1k9Y
 
-https://drive.google.com/file/d/1vGOv56v4Cl6XgGP6OoRxE_KqLvjKGdlS
+https://drive.google.com/file/d/1JBj5Wmy_bJWq8Ta7MDyD_wxJh26bV25G
 
-https://drive.google.com/file/d/1NVKsop_nkn53Kn2EVEGj6clJJnbst73-
+https://drive.google.com/file/d/1cJD8S0f8kc48O596aC8FNL02Sr3MVdhR
 
-https://drive.google.com/file/d/1PLsrGtNi6VsugJAo_eMB9sUSau__oRA2
+https://drive.google.com/file/d/1kSEFa6BFL-Xli-ZT-3jfazxHPwEJXjIt
 
-https://drive.google.com/file/d/1cVHCMdeQlkKp8jbwAMMSKxSzFbhmvMBg
+https://drive.google.com/file/d/1UP31DkqyEPtGSFYf0YJ8wqXM_R8X4pMg
 
-https://drive.google.com/file/d/1a7aVxnBzni3tMLjAvq6rj41sEn5XldCp
+https://drive.google.com/file/d/1binKi21VdJmKOB7UhHGggWFNSDgfRcx-
 
-https://drive.google.com/file/d/1_zUS5B0WZ6OB9d1GOvza8Uz7t0yb4sOt
+https://drive.google.com/file/d/1pfK_NYlHIcgEEjRXjAwt8xpePDOX6FzH
 
-https://drive.google.com/file/d/12qQ0BBK7NBVnFjVFbfkyQqcZ0qqU5MEk
+https://drive.google.com/file/d/1t6pEKR6BTCS0gJY7uRQF9Z9qqb7qBXYp
 
-https://drive.google.com/file/d/1iuJwGU_hkY7Nrx03o_BNsDpKfnwse3HK
+https://drive.google.com/file/d/1YSmZxrLIVuE-UsVW1N_XtKfkuUqIH1OB
 
-https://drive.google.com/file/d/1tp1Cm_lN9Bro2A2EBzgsImllZOMBL4Ga
+https://drive.google.com/file/d/125ivwGTzjwQEI6nEMv4dt22r57WkXra4
 
-https://drive.google.com/file/d/1Nn-wDIvR4wztG5IshZtm_4U03fMevIO9
+https://drive.google.com/file/d/1bw1SA4V7-uKKyRlCGp8rRyL-rHf_v-Td
 
-https://drive.google.com/file/d/1AsGsHRvhTdAcKa8T7s0gGBmSjlMTjFBV
+https://drive.google.com/file/d/1r0lvXcVTTiRB7JDSF956zwSmL3AgAWLK
 
-https://drive.google.com/file/d/1GbbxRA4z6k1-oDfQv9MeAGZZEmjFmtcz
+https://drive.google.com/file/d/1yq3_tFbyP_e-Qc96GfxLke6L-TrUpoWk
 
-https://drive.google.com/file/d/1kWesnTV_sF4w_GLAN8EGCFJuRTfJFwEn
+https://drive.google.com/file/d/1VrzAhnOJGLBpD7PDHczfsN6ZktFcf4nR
 
-https://drive.google.com/file/d/1Io6P1VYHpu8JmH9D20IAEpB_p1RgzU3t
+https://drive.google.com/file/d/1is5K5ia3m1tOVpdw08ybwU1aYZCMLlA1
 
-https://drive.google.com/file/d/1b0AfixM9HdUE0lQJ8QDnvrJuT6VISSu1
-
-
-Links to non-Christmas Sears Catalogs, such as the Sears Spring/Summer and Sears Fall/Winter editions can be found below:
-
-https://drive.google.com/file/d/0B6wxxQ6w7SkmQVZ3cGFwWFVPZHM
-
-https://drive.google.com/file/d/0B6wxxQ6w7SkmQUh4T0xHSzU5cXc
-
-https://drive.google.com/file/d/0B6wxxQ6w7SkmWHY5ZkFUY3VZY0E
-
-https://drive.google.com/file/d/0B6wxxQ6w7SkmUVNnSXZkNjNyNkE
-
-https://drive.google.com/file/d/0B6wxxQ6w7SkmUXg1Zm1QT2RtdFU
-
-https://drive.google.com/file/d/0B6wxxQ6w7SkmSWIzT3VRaVBUSlE
-
-https://drive.google.com/file/d/0B6wxxQ6w7SkmVEI1WVM1b1gtTHc
-
-https://drive.google.com/file/d/0B6wxxQ6w7SkmRnBxbWdyalFISlU
-
-https://drive.google.com/file/d/0B6wxxQ6w7SkmdDBjUDRpTzFJZzA
-
-https://drive.google.com/file/d/0B6wxxQ6w7SkmdDBjUDRpTzFJZzA
-
-https://drive.google.com/file/d/0B6wxxQ6w7Skmb0dYaHBqSF8yVXM
-
-https://drive.google.com/file/d/0B6wxxQ6w7SkmT0Q5OEcwNEZvS0E
-
-https://drive.google.com/file/d/0B6wxxQ6w7SkmVElERGRSejVrY2M
-
-https://drive.google.com/file/d/0B6wxxQ6w7SkmTm1IQ1ZBeEZjdDQ
-
-https://drive.google.com/file/d/0B6wxxQ6w7SkmbFV0V29QZVdJVHM
-
-https://drive.google.com/file/d/0B6wxxQ6w7SkmQlJMR0NCQzY2ems
-
-https://drive.google.com/file/d/0B6wxxQ6w7SkmVHYzYUVQNU9HdUU
-
-https://drive.google.com/file/d/0B6wxxQ6w7SkmN2VtOHBtX2wyVjQ
-
-https://drive.google.com/file/d/0B6wxxQ6w7SkmX0RKLTQtcjFlb0U
-
-https://drive.google.com/file/d/0B6wxxQ6w7SkmNE9UT3ZPdC1ubWs
-
-https://drive.google.com/file/d/0B6wxxQ6w7SkmVldxbUlSemtEQ3M
-
-https://drive.google.com/file/d/0B6wxxQ6w7SkmRGU2N19tWjBSRnc
-
-https://drive.google.com/file/d/0B6wxxQ6w7SkmaGUtY21lZFNuRU0
-
-https://drive.google.com/file/d/0B6wxxQ6w7SkmS3dzMWFUYkUyUFk
-
-https://drive.google.com/file/d/0B6wxxQ6w7SkmanNoaTZlMjU3TTA
-
-https://drive.google.com/file/d/0B6wxxQ6w7SkmYkg1MFJsdE01dk0
-
-https://drive.google.com/file/d/0B6wxxQ6w7SkmQWdCZldaYkZobVE
-
-https://drive.google.com/file/d/0B6wxxQ6w7SkmVmFJcC0xUHN6MVk
-
-https://drive.google.com/file/d/0B6wxxQ6w7SkmS1l5R2hJSGxkUEU
-
-https://drive.google.com/file/d/0B6wxxQ6w7SkmU2RSRnN2aVU5M2M
-
-https://drive.google.com/file/d/0B6wxxQ6w7SkmbjlHa3h2LXEwZEk
-
-https://drive.google.com/file/d/0B6wxxQ6w7SkmR0UyT0VJZzBiRUk
-
-https://drive.google.com/file/d/0B6wxxQ6w7SkmcndvWVRfRUR3d0U
-
-https://drive.google.com/file/d/0B6wxxQ6w7SkmOHJUcWU2ZVpkWlE
-
-https://drive.google.com/file/d/0B6wxxQ6w7SkmSEhuWjNHWUFsZkU
-
-https://drive.google.com/file/d/0B6wxxQ6w7SkmV09MeTBDdmhCNDQ
-
-https://drive.google.com/file/d/0B6wxxQ6w7SkmQ3RPYVA0WFJaQWs
-
-https://drive.google.com/file/d/0B6wxxQ6w7SkmX09nWV9LYnBzWkU
-
-https://drive.google.com/file/d/0B6wxxQ6w7Skmd25pR0FYbGdYNzQ
-
+https://drive.google.com/file/d/1Z4hx4__N-JcxJhGIIsGGX2_VsKOZ5-oF
